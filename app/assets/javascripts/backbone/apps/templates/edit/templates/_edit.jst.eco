@@ -1,0 +1,16 @@
+<p>
+  <label>Name: </label><br>
+  <input id="name" type="text" value="<%= @name %>">
+</p>
+<p>
+  <label>Site:</label>
+  <input id="site" type="text" value="<%= @site %>">
+</p>
+<p>
+  <label>Template Body: </label><br>
+  <textarea id="body" ><%= @body %></textarea>
+</p>
+<p>
+  <input class="submit" type="button" value="Submit">
+  <input class="cancel" type="button" value="Cancel">
+</p>

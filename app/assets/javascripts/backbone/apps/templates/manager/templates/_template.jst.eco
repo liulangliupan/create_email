@@ -1,0 +1,6 @@
+  <td class="button"><%= @name %></td>
+  <td class="button"><%= @site %></td>
+  <td class="button"><%= @created_at %></td>
+  <td class="button"><%= @updated_at %></td>
+  <td><a class="template-edit" href="#templates/update/<%= @id %>">Edit</a> | <a class="template-delete" href="#templates/destroy/<%= @id %>">Delete</a></td>
+

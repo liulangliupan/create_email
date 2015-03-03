@@ -1,0 +1,33 @@
+  <p>
+    <label>Name:</label>
+    <input id="name" type="text" value="<%= @name %>">
+  </p>
+  <p>
+    <label>Cline:</label>
+    <input id="cline" type="text" value="<%= @cline %>">
+  </p>
+  <p>
+    <label>Story ID:</label>
+    <input id="story_id" type="text" value="<%= @story_id %>">
+  </p>
+  <p>
+    <label>Story URL:</label>
+    <input id="story_url" type="text" value="<%= @story_url %>">
+  </p>
+  <p>
+    <label>Launch Date:</label>
+    <input id="launch_date" type="text" value="<%= @launch_date %>">
+  </p>
+  <p>
+    <label>Template:</label>
+    <input id="template" type="text" value="<%= @template %>">
+  </p>
+  <p>
+    <label>Emails Body</label><br>
+    <pre id="editor"></pre>
+  </p>
+<p>
+  <input class="submit" type="button" value="Submit">
+  <input class="preview" type="button" value="Preview">
+  <input class="cancel" type="button" value="Cancel"
+</p>

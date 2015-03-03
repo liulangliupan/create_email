@@ -1,0 +1,9 @@
+<section class="header">
+  <h1>Templates Manager</h1>
+</section>
+<section class="panel">
+  <a class="router-create" href="#templates/create">Create a template</a> | <a href="#">Back</a>
+</section>
+<section class="t-list-region"></section>
+<section class="t-edit-region"></section>
+<section class="t-preview-region"></section>

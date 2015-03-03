@@ -1,0 +1,4 @@
+email:
+rails generate model Email name:string cline:string story_id:integer story_url:string launch_date:date body:text template_body:text
+
+

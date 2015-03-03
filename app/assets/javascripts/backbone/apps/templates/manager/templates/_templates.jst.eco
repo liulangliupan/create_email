@@ -1,0 +1,12 @@
+<table class="table table-bordered table-striped">
+  <thead>
+      <tr>
+        <td class="t-template-item">Name</td>
+        <td class="t-template-item">Site</td>
+        <td class="t-template-item">Create Date</td>
+        <td class="t-template-item">Modified Date</td>
+        <td></td>
+      </tr>
+  </thead>
+  <tbody></tbody>
+</table>

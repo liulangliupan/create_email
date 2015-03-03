@@ -1,0 +1,6 @@
+<td><%= @name %></td>
+<td><%= @cline %></td>
+<td><a href="<%= @story_url %>" target="_blank"><%= @story_id %></a></td>
+<td><%= @launch_date %></td>
+<td><%= @updated_at %></td>
+<td><a href="#emails/update/<%= @id %>">Edit</a> | <a href="#emails/destroy/<%= @id %>">Delete</a></td>

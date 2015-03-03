@@ -1,0 +1,38 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+@import "jquery-ui/core";
+@import "jquery-ui/theme";
+@import "jquery-ui/dialog";
+//
+@import "bootstrap-sprockets";
+@import "bootstrap";
+/*
+
+UPGRADING
+
+Remove the twitter/ prefix from all your `@import` and `= require`
+                                                          statements:
+
+                                                          Before:
+@import "twitter/bootstrap";
+@import "twitter/bootstrap/modal";
+
+After:
+@import "bootstrap";
+@import "bootstrap/modal";
+
+Before:
+    //= require "twitter/bootstrap";
+    //= require "twitter/bootstrap/modal";
+
+  After:
+    //= require "bootstrap";
+    //= require "bootstrap/modal";
+
+  Thank you for using bootstrap-sass-rails!
+*/
+
+body{padding:0px 20px}

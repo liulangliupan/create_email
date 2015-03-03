@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  cline: MyString
+  story_id: 1
+  story_url: MyString
+  launch_date: 2015-01-17
+  body: MyText
+  template_body: MyText
+
+two:
+  name: MyString
+  cline: MyString
+  story_id: 1
+  story_url: MyString
+  launch_date: 2015-01-17
+  body: MyText
+  template_body: MyText
